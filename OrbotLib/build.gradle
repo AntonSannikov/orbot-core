@@ -10,7 +10,7 @@ publishing {
         aar(MavenPublication) {
             groupId = 'com.github.AntonSanikov'
             artifactId = 'orbot-core'
-            version = '0.0.3'
+            version = '1.0.0'
             artifact publishArtifact
         }
     }
